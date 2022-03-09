@@ -15,7 +15,7 @@ class LogReg():
       n:number of features
       """
     
-    def __init__(self, X, y, iters=1000, learning_rate=0.1):
+    def __init__(self, X, y, iters=1000, learning_rate=10):
         self.X = X
         self.y = y 
         self.m, self.n = self.X.shape
