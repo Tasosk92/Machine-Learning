@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine Learning algorithms and routines
+Machine Learning algorithms and projects.
